@@ -1,1 +1,2 @@
-notepad.exe "Hello Jenkins"
+javac PrintName.java
+java PrintName
